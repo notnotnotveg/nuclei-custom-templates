@@ -2,7 +2,7 @@ id: Apache Nifi-Unauthenticated
 
 info:
   name: Apache Nifi-Unauthenticated
-  author: me
+  author: notnotnotveg
   severity: informative
 
 requests:
