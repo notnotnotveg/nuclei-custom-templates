@@ -2,7 +2,7 @@ id: Clickhouse DB - Unauthenticated
 
 info:
   name: Clickhouse DB - Unauthenticated
-  author: NA
+  author: notnotnotveg
   severity: high
 
 requests:
