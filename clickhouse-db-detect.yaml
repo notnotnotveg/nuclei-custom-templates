@@ -2,7 +2,7 @@ id: Clickhouse DB - Detect
 
 info:
   name: Clickhouse DB - Detect
-  author: NA
+  author: notnotnotveg
   severity: informative
 
 requests:
